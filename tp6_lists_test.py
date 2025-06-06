@@ -96,5 +96,5 @@ class TP6ListsCases(unittest.TestCase):
         self.assertEqual(expected4, result4)
 
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     unittest.main()
